@@ -4,6 +4,7 @@ import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { FaHeart } from "react-icons/fa";
+// import { IoIconName } from 'react-icons/io';
 
 function Footer() {
   return (
